@@ -1,3 +1,4 @@
+
 html {
   background: url(../images/beautiful-day.jpg) no-repeat top center;
 }
@@ -27,6 +28,7 @@ img {
   z-index: 0;
   top: 220px;
 }
+
 #wheelbarrow-foreground {
   pointer-events: none;
   position: absolute;
